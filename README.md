@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/SELinux_logo.svg" width="50" height="50" alt="SELinux" title="SELinux"/>
 </p>
 <p align="center">
   <b>Linux</b> &nbsp; | &nbsp;
@@ -21,7 +21,7 @@
   <b>Bash</b> &nbsp; | &nbsp;
   <b>Git</b> &nbsp; | &nbsp;
   <b>VS Code</b> &nbsp; | &nbsp;
-  <b>Gnuplot</b>
+  <b>SELinux</b>
 </p>
 
 ---
